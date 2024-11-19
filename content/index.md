@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Apuntes teóricos de Programación Web
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Utiliza la barra lateral para ver los apuntes de cada bloque y tema
